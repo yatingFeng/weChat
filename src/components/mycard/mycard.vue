@@ -10,7 +10,7 @@
       <router-link to="/chat" class="icon iconfont icon-5"></router-link>
 	  <router-link to="/groupchat" class="icon iconfont icon-qun"></router-link>
       <router-link to="/friend" class="icon iconfont icon-friend"></router-link>
-      <router-link to="/square" class="icon iconfont icon-friend1"></router-link>
+      <!-- <router-link to="/square" class="icon iconfont icon-friend1"></router-link> -->
       <router-link to="/my" class="icon iconfont icon-foundationinfo"></router-link>
     </div>
     <!-- 退出按钮 -->

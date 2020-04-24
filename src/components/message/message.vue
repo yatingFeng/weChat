@@ -81,7 +81,6 @@ export default {
               '"  alt="" style="vertical-align: middle; width: 24px; height: 24px" />'
           );
         }
-        // console.log(con)
         return con;
 			}
 			 if (con.includes("gif")) {
